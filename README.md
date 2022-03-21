@@ -2,7 +2,7 @@
 - 👀 I’m interested in practicing and learning new skills to help my future career.
 - 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on any open source projects.
-- 📫 How to reach me: merilynk02@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/merilynkuo/
 
 <!---
 merilynk/merilynk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
