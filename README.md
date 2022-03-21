@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merilynk
+- 👋 Hi, I’m Merilyn. I'm a undergraduate at UC Santa Cruz studying computer science.
 - 👀 I’m interested in practicing and learning new skills to help my future career.
 - 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on any open source projects.
